@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345937267209",
+    "firebase_url": "https://tap-1-423dc-default-rtdb.firebaseio.com",
+    "project_id": "tap-1-423dc",
+    "storage_bucket": "tap-1-423dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345937267209:android:5af0e114efc4abcf4d86d8",
+        "android_client_info": {
+          "package_name": "com.touchgirl.touchgirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345937267209-u1jo45kct38m16cirl69d1enbn84dd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQ-Rr9-jTjggtZkkXyHcc0fUiF0FKQYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345937267209-u1jo45kct38m16cirl69d1enbn84dd41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
